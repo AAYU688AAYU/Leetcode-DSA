@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1534-count-good-triplets) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Enumeration
 |  |
 | ------- |
