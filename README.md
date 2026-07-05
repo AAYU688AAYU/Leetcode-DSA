@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3866-first-unique-even-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3866-first-unique-even-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
 | ------- |
