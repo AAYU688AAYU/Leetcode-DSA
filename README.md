@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
