@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting Sort
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
