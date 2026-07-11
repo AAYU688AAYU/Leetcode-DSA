@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
