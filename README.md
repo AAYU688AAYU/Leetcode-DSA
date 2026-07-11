@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0941-valid-mountain-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0941-valid-mountain-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
