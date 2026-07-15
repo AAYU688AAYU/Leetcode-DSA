@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3917-count-indices-with-opposite-parity) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Enumeration
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
