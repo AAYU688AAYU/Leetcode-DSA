@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
