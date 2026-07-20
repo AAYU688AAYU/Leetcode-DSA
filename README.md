@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3866-first-unique-even-element) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
