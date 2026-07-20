@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -253,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
