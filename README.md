@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
+| [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 ## Sliding Window
 |  |
 | ------- |
