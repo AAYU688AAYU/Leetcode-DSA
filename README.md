@@ -291,15 +291,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
