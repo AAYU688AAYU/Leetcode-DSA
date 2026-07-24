@@ -295,21 +295,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
