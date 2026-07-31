@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
