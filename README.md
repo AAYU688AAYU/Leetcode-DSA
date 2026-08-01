@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
