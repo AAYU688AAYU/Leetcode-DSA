@@ -1,37 +1,30 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    void solve(TreeNode* root,vector<int>&nums){
-        if(!root) return;
+     
+    void inorder(TreeNode* root, vector<int>& arr) {
+        if (root == NULL)
+            return;
 
-        solve(root->left,nums);
-        nums.push_back(root->val);
-        solve(root->right,nums);
+        inorder(root->left, arr);
+        arr.push_back(root->val);
+        inorder(root->right, arr);
     }
+
     int getMinimumDifference(TreeNode* root) {
-        vector<int> nums;
+        vector<int> arr;
+        inorder(root, arr);
 
-        solve(root , nums);
-        sort(nums.begin() , nums.end() );
-        int mn = INT_MAX;
+        int ans = INT_MAX;
 
-        for(int i = 0;i<nums.size() - 1;i++){
-            int diff = abs(nums[i] - nums[i + 1]);
-            mn = min(mn , diff);
+        int i = 0;
+        int j = 1;
+
+        while (j < arr.size()) {
+            ans = min(ans, abs(arr[j] - arr[i]));
+            i++;
+            j++;
         }
-        return mn;
 
-        
-
+        return ans;
     }
 };
