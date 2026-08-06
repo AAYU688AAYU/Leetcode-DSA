@@ -2,7 +2,7 @@ class Solution {
 public:
     int smallestNumber(int n, int t) {
         int num=n;
-        while(num < INT_MAX){
+        while(num <= 100){
             int x = num;
             int product = 1;
             while(x > 0){
