@@ -6,7 +6,6 @@ public:
         int piv = -1;
         for(int i = n - 2;i >= 0 ;i--){
             if(nums[i] < nums[i + 1]){
-                // swap(nums[i+1] , nums[n - 1]);
                 piv = i;
                 break;
                 
