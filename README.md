@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1534-count-good-triplets](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1534-count-good-triplets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2256-minimum-average-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
