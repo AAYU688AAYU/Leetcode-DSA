@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0486-predict-the-winner) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
