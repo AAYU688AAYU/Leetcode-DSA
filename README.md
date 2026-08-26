@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0486-predict-the-winner) |
