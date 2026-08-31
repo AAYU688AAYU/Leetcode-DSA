@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -490,4 +493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
