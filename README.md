@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting Sort
 |  |
 | ------- |
