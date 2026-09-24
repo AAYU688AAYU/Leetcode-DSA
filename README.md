@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
