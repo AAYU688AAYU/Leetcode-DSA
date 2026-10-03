@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Merge Sort
 |  |
 | ------- |
@@ -555,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 <!---LeetCode Topics End-->
