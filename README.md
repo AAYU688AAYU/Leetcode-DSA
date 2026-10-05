@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -395,11 +398,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Merge Sort
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -564,9 +569,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
