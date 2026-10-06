@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0307-range-sum-query-mutable](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Memoization
@@ -583,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
