@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
@@ -604,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
