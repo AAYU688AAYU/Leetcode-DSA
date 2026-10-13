@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2256-minimum-average-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2270-number-of-ways-to-split-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
