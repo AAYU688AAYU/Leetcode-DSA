@@ -10,7 +10,7 @@ public:
         for(int i = 0;i < n ;i++){
             diff[i] = abs(nums1[i] - nums2[i]);
             mx = max(mx , diff[i]);
-            sum += 1LL * diff[i] * diff[i];
+            // sum += 1LL * diff[i] * diff[i];
 
         }
         vector<long long> freq(mx + 1 , 0);
