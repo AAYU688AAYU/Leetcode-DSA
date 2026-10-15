@@ -1,12 +1,9 @@
 class Solution {
 public:
-    static bool cmp(vector<int>& a , vector<int>& b){
-        return a[0] < b[0];
-    }
     vector<vector<int>> merge(vector<vector<int>>& nums) {
         int n = nums.size();
         
-        sort(nums.begin() , nums.end() , cmp);
+        sort(nums.begin() , nums.end());
         vector<vector<int>> ans;
         int a = nums[0][0];
         int b = nums[0][1];
