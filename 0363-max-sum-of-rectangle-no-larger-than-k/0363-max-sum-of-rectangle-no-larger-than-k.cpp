@@ -8,11 +8,11 @@ public:
         prefix[0][0] = nums[0][0]; ans= (prefix[0][0])<=k?prefix[0][0]:INT_MIN ;
         for (int j = 1; j < m; j++) {
             prefix[0][j] = prefix[0][j - 1] + nums[0][j];
-            if(prefix[0][j]<=k) ans= max(ans, prefix[0][j]);
+          
         }
         for (int i = 1; i < n; i++) {
             prefix[i][0] = prefix[i - 1][0] + nums[i][0];
-            if(prefix[i][0]<=k) ans= max(ans, prefix[i][0]);
+          
 
         }
         for (int i = 1; i < n; i++) {
@@ -28,21 +28,21 @@ public:
 
                             int sum = prefix[x2][y2];
 
-    if (x1 > 0)
-        sum -= prefix[x1 - 1][y2];
+                            if (x1 > 0)
+                                sum -= prefix[x1 - 1][y2];
 
-    if (y1 > 0)
-        sum -= prefix[x2][y1 - 1];
+                            if (y1 > 0)
+                                sum -= prefix[x2][y1 - 1];
 
-    if (x1 > 0 && y1 > 0)
-        sum += prefix[x1 - 1][y1 - 1];
-                             if (sum <= k) {
+                            if (x1 > 0 && y1 > 0)
+                                sum += prefix[x1 - 1][y1 - 1];
+                                                    if (sum <= k) {
                                     ans = max(ans, sum);
                         }
                     }
                 }
             }
         }
-        return (ans==INT_MIN)?-1: ans;
+        return ans;
     }
 };
