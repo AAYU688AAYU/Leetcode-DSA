@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
