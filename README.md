@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1534-count-good-triplets](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1534-count-good-triplets) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
