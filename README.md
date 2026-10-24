@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Matrix
 |  |
 | ------- |
