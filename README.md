@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1331-rank-transform-of-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -482,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -626,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
