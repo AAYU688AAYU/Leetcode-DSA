@@ -2,24 +2,26 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n = nums.size();
-        int i = 0,j =0 ;
-        int ans =INT_MAX;
-        int sum = 0;
+        unordered_map<int , int> mp;
+
+        int i = 0;
+        int j = 0;
+        int minn = INT_MAX ;
+        int  sum = 0;
         while(j < n){
+
             sum += nums[j];
-            while(sum >= target ){
-                ans = min(ans , j - i + 1);
+            while(sum >= target){
+                int len = j - i + 1;
+                minn = min(minn , len);
                 sum -= nums[i];
                 i++;
-                }
-            
+                
+            }
             j++;
-        }
-        if(ans != INT_MAX){
-            return ans;
-        }
-        
-        return 0;
 
+        }
+        if(minn == INT_MAX) return 0;
+        return minn ;
     }
 };
