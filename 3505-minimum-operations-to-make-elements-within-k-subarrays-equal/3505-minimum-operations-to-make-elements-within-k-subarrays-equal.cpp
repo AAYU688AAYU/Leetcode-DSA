@@ -1,113 +1,104 @@
-
 class Solution {
-public:
+public: 
+    int n, x ,k;
+    vector<long long> minop;               // CHANGED
+    vector<vector<long long>> memo;        // CHANGED
+    long long  solve(int count , int i){
+         if(count == k){
+            return 0;
+             
+         }
+         int sub = k - count;
+         int ele_need = sub * x;
+         int last_index = i + ele_need - 1;
+
+         if(last_index >= n){
+            return 1e16;
+         } 
+         if(memo[count][i] != -1){
+            return memo[count][i];
+         }
+         long long result = minop[i] + solve(count + 1 , i + x);
+         result = min(result , solve(count  , i+1));
+
+         return memo[count][i] = result;
+    }
     long long minOperations(vector<int>& nums, int x, int k) {
-        int n = nums.size();
+        this->x = x;
+        this->n = nums.size();
+        this->k = k;
+        minop.assign(n + 1, 0);                          // CHANGED
+        memo.assign(k + 1, vector<long long>(n + 1, -1)); // CHANGED (replaces memset)
 
-        multiset<int> left, right;
-        long long sumL = 0, sumR = 0;
+        multiset<int > left ,right;
+        long long leftsum = 0 , rightsum = 0;
 
-        auto add = [&](int val) {
-            if (left.empty() || val <= *left.rbegin()) {
-                left.insert(val);
-                sumL += val;
-            } else {
-                right.insert(val);
-                sumR += val;
-            }
+        int i = 0;
+        int j = 0;
+        while(j < n){
+             if(left.size() <= right.size()){
+                left.insert(nums[j]);
+                leftsum += nums[j];
+             }else{
+                 right.insert(nums[j]);
+                rightsum  += nums[j];
+             }
 
-            while (left.size() > right.size() + 1) {
-                int v = *left.rbegin();
-                left.erase(prev(left.end()));
-                sumL -= v;
+             if(!left.empty() && !right.empty()){
+                int maxleft = *left.rbegin();
+                int  minright = *right. begin();
 
-                right.insert(v);
-                sumR += v;
-            }
+                if(maxleft > minright){
+                    left.erase(left.find(maxleft));
+                    right.erase(right.find(minright));
 
-            while (left.size() < right.size()) {
-                int v = *right.begin();
-                right.erase(right.begin());
-                sumR -= v;
+                    left.insert(minright);
+                    right.insert(maxleft);
+                     
+                    leftsum += minright - maxleft;
+                    rightsum += maxleft - minright;
 
-                left.insert(v);
-                sumL += v;
-            }
-        };
-
-        auto remove = [&](int val) {
-            auto it = left.find(val);
-
-            if (it != left.end()) {
-                left.erase(it);
-                sumL -= val;
-            } else {
-                it = right.find(val);
-                right.erase(it);
-                sumR -= val;
-            }
-
-            while (left.size() > right.size() + 1) {
-                int v = *left.rbegin();
-                left.erase(prev(left.end()));
-                sumL -= v;
-
-                right.insert(v);
-                sumR += v;
-            }
-
-            while (left.size() < right.size()) {
-                int v = *right.begin();
-                right.erase(right.begin());
-                sumR -= v;
-
-                left.insert(v);
-                sumL += v;
-            }
-        };
-
-        vector<long long> cost(n - x + 1);
-
-        for (int i = 0; i < n; i++) {
-            add(nums[i]);
-
-            if (i >= x) {
-                remove(nums[i - x]);
-            }
-
-            if (i >= x - 1) {
-                long long median = *left.rbegin();
-
-                long long operations =
-                    median * (long long)left.size() - sumL
-                    + sumR - median * (long long)right.size();
-
-                cost[i - x + 1] = operations;
-            }
-        }
-
-        const long long INF = LLONG_MAX / 4;
-
-        vector<long long> prev(n + 1, 0);
-        vector<long long> curr(n + 1, INF);
-
-        for (int j = 1; j <= k; j++) {
-            fill(curr.begin(), curr.end(), INF);
-
-            for (int i = x; i <= n; i++) {
-                curr[i] = curr[i - 1];
-
-                if (prev[i - x] != INF) {
-                    curr[i] = min(
-                        curr[i],
-                        prev[i - x] + cost[i - x]
-                    );
                 }
-            }
+                 
+             }
+             if(j - i + 1 == x){
+                long long median = *left.rbegin(); 
+                long long left_size = left.size();
+                long long right_size = right.size();
 
-            prev.swap(curr);
+                 minop[i] = ((left_size * median - leftsum ) + (rightsum - right_size * median));
+
+                 if(left.find(nums[i]) != left.end()){
+                    left.erase(left.find(nums[i]));
+                    leftsum -= nums[i];
+                 }else{
+                    right.erase(right.find(nums[i]));
+                    rightsum -= nums[i];
+                     
+                 }
+
+                 while(left.size() > right.size() + 1){
+                    int v = *left.rbegin();
+                    left.erase(left.find(v));
+                    leftsum -= v;
+                    right.insert(v);
+                    rightsum += v;
+                 }
+                 while(left.size() < right.size()){
+                    int v = *right.begin();
+                    right.erase(right.begin());
+                    rightsum -= v;
+                    left.insert(v);
+                    leftsum += v;
+                 }
+
+                 i++;
+
+             }
+             j++;
         }
+         
 
-        return prev[n];
+         return solve(0, 0);
     }
 };
