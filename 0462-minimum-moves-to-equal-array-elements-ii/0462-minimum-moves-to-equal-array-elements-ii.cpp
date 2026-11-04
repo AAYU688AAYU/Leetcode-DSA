@@ -4,7 +4,7 @@ public:
         int n = nums.size();
        
         multiset<int> left ,right;
-        long long leftsum = 0, rightsum = 0;   // CHANGED: long long
+        long long leftsum = 0, rightsum = 0;  
         int j = 0;
         while(j < n){
             if(left.size() <= right.size()){
