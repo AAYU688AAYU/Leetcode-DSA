@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1191-k-concatenation-maximum-sum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0977-squares-of-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
