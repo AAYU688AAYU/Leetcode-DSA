@@ -1,27 +1,35 @@
 class Solution {
 public:
-    int minSubArrayLen(int target, vector<int>& nums) {
+    int minSubArrayLen(int k, vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int , int> mp;
-
-        int i = 0;
+        deque<int > deq;
+        vector<long long > sum(n , 0);
+        int result = INT_MAX;
         int j = 0;
-        int minn = INT_MAX ;
-        int  sum = 0;
         while(j < n){
+            if(j == 0){
+                sum[j] = nums[j];
 
-            sum += nums[j];
-            while(sum >= target){
-                int len = j - i + 1;
-                minn = min(minn , len);
-                sum -= nums[i];
-                i++;
-                
+            }else{
+                sum[j] = sum[j - 1] + nums[j];
+
             }
-            j++;
+            if(sum[j] >= k){
+                result = min(result , j + 1);
 
-        }
-        if(minn == INT_MAX) return 0;
-        return minn ;
+            }
+            while(!deq.empty() && sum[j] - sum[deq.front()] >= k){
+                result = min(result , j - deq.front());
+                deq.pop_front();
+            }
+            while(!deq.empty() && sum[j] <= sum[deq.back()]){
+                deq.pop_back();
+
+            }
+            deq.push_back(j);
+            j++;
+        }if(result== INT_MAX) return 0;
+        
+        return result;
     }
 };
