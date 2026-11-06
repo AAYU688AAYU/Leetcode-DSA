@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2615-sum-of-distances) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2615-sum-of-distances](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2815-max-pair-sum-in-an-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2747-count-zero-request-servers](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3364-minimum-positive-sum-subarray) |
