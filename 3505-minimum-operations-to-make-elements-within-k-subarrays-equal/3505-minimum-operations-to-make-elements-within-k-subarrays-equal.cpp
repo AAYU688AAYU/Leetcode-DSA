@@ -42,7 +42,6 @@ public:
                 right.insert(nums[j]);
                 rightsum += nums[j];
             }
-
             if (!left.empty() && !right.empty()) {
                 int maxleft = *left.rbegin();
                 int minright = *right.begin();
