@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3364-minimum-positive-sum-subarray) |
