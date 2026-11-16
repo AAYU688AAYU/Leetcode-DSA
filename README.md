@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Matrix
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
