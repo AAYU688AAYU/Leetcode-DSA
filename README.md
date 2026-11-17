@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0260-single-number-iii) |
