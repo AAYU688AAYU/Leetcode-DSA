@@ -21,7 +21,7 @@ public:
             arr[k++] = nums2[j++];
 
         int total = n + m;
-        if (total % 2 == 1) {
+        if(total % 2 == 1) {
             return arr[total / 2];
         } else {
             return (arr[total / 2 - 1] + arr[total / 2]) / 2.0;
