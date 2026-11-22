@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0179-largest-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0075-sort-colors) |
 ## Queue
 |  |
 | ------- |
@@ -763,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AAYU688AAYU/Leetcode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
